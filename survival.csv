@@ -1,0 +1,51 @@
+colony,treatment,source,survival,day
+1086,RCP 4.5,aquaria,0.88,%day_3
+1086,RCP 4.5,aquaria,0.96,%day_3
+1077,RCP 4.5,aquaria,0.857142857,%day_3
+1077,RCP 4.5,aquaria,0.925,%day_3
+1075,RCP 8.5,aquaria,1,%day_3
+1075,RCP 8.5,aquaria,0.72,%day_3
+21,RCP 4.5,aquaria,0.742857143,%day_3
+21,RCP 4.5,aquaria,0.888888889,%day_3
+1095,RCP 4.5,aquaria,0.75,%day_3
+1095,RCP 4.5,aquaria,1,%day_3
+1099,Ambient,aquaria,0.916666667,%day_3
+1099,Ambient,aquaria,0.9,%day_3
+1076,Ambient,aquaria,0.857142857,%day_3
+1076,Ambient,aquaria,0.928571429,%day_3
+16,Ambient,aquaria,0.74,%day_3
+16,Ambient,aquaria,0.538461538,%day_3
+sea,RCP 8.5,sea,1,%day_3
+sea,RCP 8.5,sea,1,%day_3
+sea,RCP 8.5,sea,0.9,%day_3
+sea,RCP 4.5,sea,1,%day_3
+sea,RCP 4.5,sea,0.75,%day_3
+sea,RCP 4.5,sea,0.733333333,%day_3
+sea,Ambient,sea,0.68,%day_3
+sea,Ambient,sea,0.8,%day_3
+sea,Ambient,sea,1,%day_3
+1086,RCP 4.5,aquaria,0.4,%day_7
+1086,RCP 4.5,aquaria,0.6,%day_7
+1077,RCP 4.5,aquaria,0,%day_7
+1077,RCP 4.5,aquaria,0,%day_7
+1075,RCP 8.5,aquaria,0.44,%day_7
+1075,RCP 8.5,aquaria,0.04,%day_7
+21,RCP 4.5,aquaria,0.085714286,%day_7
+21,RCP 4.5,aquaria,0.333333333,%day_7
+1095,RCP 4.5,aquaria,0.333333333,%day_7
+1095,RCP 4.5,aquaria,0.444444444,%day_7
+1099,Ambient,aquaria,0.5,%day_7
+1099,Ambient,aquaria,0.48,%day_7
+1076,Ambient,aquaria,0.614285714,%day_7
+1076,Ambient,aquaria,0.857142857,%day_7
+16,Ambient,aquaria,0.5,%day_7
+16,Ambient,aquaria,0.338461538,%day_7
+sea,RCP 8.5,sea,0.4375,%day_7
+sea,RCP 8.5,sea,0.9,%day_7
+sea,RCP 8.5,sea,0.9,%day_7
+sea,RCP 4.5,sea,0.8,%day_7
+sea,RCP 4.5,sea,0.9,%day_7
+sea,RCP 4.5,sea,0.7,%day_7
+sea,Ambient,sea,0.7,%day_7
+sea,Ambient,sea,0.6,%day_7
+sea,Ambient,sea,0.7,%day_7
